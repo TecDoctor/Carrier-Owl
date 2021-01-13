@@ -3,9 +3,15 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        heart rate variability: 5
+        HRV: 5
+        RRI: 4
+        RR Interval: 4
+        stress: 5
+        mental health: 5
+        sleep: 4
+        psychology: 2
+        psychiatry: 2
 
 # 通知の閾値
 score_threshold: 0
