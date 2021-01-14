@@ -1,14 +1,23 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:cs.* OR cat:stat.* OR cat:econ.*'
 
 # 検索キーワード
 keywords:
         heart rate variability: 5
         stress: 5
+        well-being: 5
         mental health: 5
+        health: 4
         sleep: 4
-        psychology: 2
-        psychiatry: 2
+        psychology: 3
+        psychiatry: 3
+        fitbit: 3
+        apple watch: 3
+        pulse: 3
+        pulse oximetry: 3
+        ECG: 3
+        sleep apnea syndrome: 2
+        spo2: 2
 
 # 通知の閾値
 score_threshold: 0
